@@ -1,0 +1,174 @@
+{
+    "projects":[
+        {
+          "id": "ff1ded744630499fabd1d8904467041e",
+          "name": "gravstein24",
+          "published": "2019-09",
+          "title": "Selling gravestones online: from scratch to final products",
+          "descriptions": "",
+          "technologies": [
+            "react",
+            "typescript",
+            "mogodb",
+            "storybook"
+          ],
+          "website": "https://www.gravstein24.no/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331083/mysite/rkoeqlndzf6yxzgmpzr0.png",
+          "isOpenSource": false
+        },
+        {
+          "id": "ff569900ceac43cdb6dd495a515b7f62",
+          "name": "elkoenery",
+          "published": "2019-11",
+          "title": "Developed the front-end for a norwegian electrical E-commerce platform",
+          "descriptions": "",
+          "technologies": [
+            "react",
+            "typescript",
+            "mogodb",
+            "storybook"
+          ],
+          "website": "https://elkoenergy.no/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331115/mysite/xnlhnqzlej8d0snrd7ad.png",
+          "isOpenSource": false
+        },
+        {
+          "id": "71e6e4a9433d412592326f05aec6469b",
+          "name": "Alt Installasjon AS",
+          "published": "2020-02",
+          "title": "Online store for electrical installations and electrical equipment",
+          "descriptions": "",
+          "technologies": [
+            "react",
+            "typescript",
+            "mogodb",
+            "storybook"
+          ],
+          "website": "https://www.altinstallasjon.no/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331065/mysite/xt8munzm56nasprajcxz.png",
+          "isOpenSource": false
+        },
+        {
+          "id": "8c83fb093a79424fb4d2f24da9bc0bb1",
+          "name": "stendi",
+          "published": "2020-01",
+          "title": "Build website for Norway's largest private healthcare services",
+          "descriptions": "",
+          "technologies": [
+            "react",
+            "typescript",
+            "mogodb",
+            "storybook"
+          ],
+          "website": "https://stendi.no/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331052/mysite/gvycbh0le6qladriqmpk.png",
+          "isOpenSource": false
+        },
+        {
+          "id": "ecd917cf128b48408369541784e28b31",
+          "name": "ludens",
+          "published": "2020-04",
+          "title": "Developed this content rich website in two weeks",
+          "descriptions": "",
+          "technologies": [
+            "react",
+            "typescript",
+            "mogodb",
+            "storybook"
+          ],
+          "website": "https://www.ludensreklame.no/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331102/mysite/csyonpsbddlgfpghd6iw.png",
+          "isOpenSource": false
+        },
+        {
+          "id": "c2598cb52970426581df9f3d5fce612a",
+          "name": "asker kulturhus",
+          "published": "2019-05",
+          "title": "My very first react project at work: Asker kulturhus' website",
+          "descriptions": "",
+          "technologies": [
+            "react",
+            "typescript",
+            "sanity"
+          ],
+          "website": "https://askerkulturhus.no/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331201/mysite/bo2ytz6xsco4awdxkibu.png",
+          "isOpenSource": false
+        },
+        {
+          "id": "2ea19538f04340e1a9b0a6024e4852bd",
+          "name": "tensorflow-detection",
+          "published": "2019-07",
+          "title": "Real time movement detection app built with JS machine learning framework.",
+          "descriptions": "",
+          "technologies": [
+            "typescript",
+            "tensorflow js",
+            "npm"
+          ],
+          "website": "https://look-at-me.netlify.com/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586330977/mysite/svpmnxwcwgtdbz2wga1f.png",
+          "isOpenSource": true
+        },
+        {
+          "id": "0ed92f5bf1e1459fb367b205a25a69a1",
+          "name": "giphy search",
+          "published": "2019-10",
+          "title": "Gif search app made with React and TypeScript",
+          "descriptions": "",
+          "technologies": [
+            "typescript",
+            "tensorflow js"
+          ],
+          "website": "https://nancybolstad.github.io/giphy-app/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331189/mysite/izlujktnarjapwodehjb.png",
+          "isOpenSource": true
+        },
+        {
+          "id": "b0a7f1b9b45840458b1944a6304d85b6",
+          "name": "search for RAWG Video Games",
+          "published": "2020-03",
+          "title": "Gif search app made with React and TypeScript",
+          "descriptions": "",
+          "technologies": [
+            "typescript",
+            "react"
+          ],
+          "website": "https://agitated-kilby-44b818.netlify.com/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331151/mysite/yim4muf9qt9zhwghxlc8.png",
+          "isOpenSource": true
+        },
+        {
+          "id": "bbab7c1cc3794605bbb11afd7786a282",
+          "name": "board game",
+          "published": "2019-12",
+          "title": "Online board game made with TypeScript, Sass and native HTML",
+          "descriptions": "",
+          "technologies": [
+            "typescript",
+            "sass",
+            "game"
+          ],
+          "website": "https://cartoon-game-of-thrones.netlify.com/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331179/mysite/s3zc3tzfbll42tis5rlw.png",
+          "isOpenSource": true,
+          "gitLink": "https://github.com/NancyBolstad/game"
+        },
+        {
+          "id": "a3d713a95c8b4ad498d08de162b3c0aa",
+          "name": "nasa-apollo",
+          "published": "2019-06",
+          "title": "nasa-apollo",
+          "descriptions": "",
+          "technologies": [
+            "javascript",
+            "html",
+            "css"
+          ],
+          "website": "https://nancybolstad.github.io/nasa-apollo/",
+          "image": "https://res.cloudinary.com/dnkfgmzy1/image/upload/v1586331136/mysite/wvslnkz2lotvcua1h4vu.png",
+          "isOpenSource": true,
+          "gitLink": "https://github.com/NancyBolstad/nasa-apollo"
+        }
+      ]
+}
